@@ -6,8 +6,7 @@ This application is used for tracking a class of students who bribe their instru
 
 ## Screenshots
 ![Before interaction](https://raw.githubusercontent.com/nathanpabst/event-listeners/master/screenshots/Screen%20Shot%202018-03-31%20at%201.51.05%20PM.png)
-![After interaction]
-(https://raw.githubusercontent.com/nathanpabst/event-listeners/master/screenshots/Screen%20Shot%202018-03-31%20at%201.51.46%20PM.png)
+![After interaction](https://raw.githubusercontent.com/nathanpabst/event-listeners/master/screenshots/Screen%20Shot%202018-03-31%20at%201.51.46%20PM.png)
 
 ## How to Run
 1. Clone down this repo and cd into project
